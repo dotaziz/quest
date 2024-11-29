@@ -10,6 +10,9 @@ As a software craftsmanship apprentice, I've been wanting to write and share tok
 
 Seeing articles from renowned and well-respected software craftsmen in their humble beginnings serves as a driving force and an inspiration. Although I have tried a couple of times to write consistently, success has been far-fetched.
 
+> "The scariest moment is always just before you start."  
+> - Stephen King
+
 But the irony is, you better write to write better. I pledge to embrace the challenge.
 
 I am no proficient writer, nor am I a software craftsman. I intend to use this blog as a garden to nurture my writings and software craftsmanship. Correction of errors, the identification of weak notions, and suggestions for improvements are warmly welcomed.
@@ -34,5 +37,3 @@ Becoming a craftsman in all endeavors doesn't just take time, takes much energy 
 Interested in exclusive updates and insights on the pursuit of software craftsmanship?
 
 
-> "The scariest moment is always just before you start."  
-> - Stephen King
